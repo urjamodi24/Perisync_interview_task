@@ -1,4 +1,6 @@
 Here's a complete and professional `README.md` file for your **Angular 15 Product Showcase App** — suitable for pushing to GitHub:
+<img width="1815" height="872" alt="image" src="https://github.com/user-attachments/assets/e5e7e614-c7f6-410c-95d0-60251f1aadb3" />
+
 
 ---
 
@@ -10,11 +12,11 @@ This is a simple **Angular 15** application that:
 - ✅ Fetches products from a public API
 - ✅ Displays them in a grid layout
 - ✅ Allows real-time search filtering
-- ✅ Uses **Tailwind CSS** for styling
+- ✅ Uses Tailwind CSS for styling
 
 ---
 
-<img width="1815" height="872" alt="image" src="https://github.com/user-attachments/assets/0de40465-a535-49f6-883b-dd0b88aa0b56" />
+
 
 
 
@@ -22,7 +24,7 @@ This is a simple **Angular 15** application that:
 
 - 🧩 **Angular 15** used via local CLI (`npx -p @angular/cli@15`)
 - 🌐 Fetches product data from [Fake Store API](https://fakestoreapi.com/)
-- 🎨 Styled beautifully with **Tailwind CSS**
+- 🎨 Styled beautifully with Tailwind CSS
 - 🔍 Live search functionality
 - 🧱 Responsive product grid layout
 
