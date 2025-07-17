@@ -14,7 +14,8 @@ This is a simple **Angular 15** application that:
 
 ---
 
-<img width="1815" height="872" alt="image" src="https://github.com/user-attachments/assets/0e86f2bb-9b2f-410e-8167-cf3cd3adb66b" />
+<img width="1815" height="872" alt="image" src="https://github.com/user-attachments/assets/0de40465-a535-49f6-883b-dd0b88aa0b56" />
+
 
 
 ## ✨ Features
