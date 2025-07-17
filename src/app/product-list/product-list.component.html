@@ -1,0 +1,46 @@
+<div class="min-h-screen bg-gradient-to-br from-green-100 via-blue-100 to-blue-200 py-10 px-4">
+  <div class="container mx-auto">
+    <!-- Stylish Heading -->
+    <h1
+      class="text-5xl font-extrabold text-center bg-gradient-to-r from-teal-400 via-blue-400 to-green-300 bg-clip-text text-transparent drop-shadow-lg mb-10 "
+    >
+       🛒 Product Showcase
+    </h1>
+
+    
+    <div class="flex justify-center mb-10">
+      <input
+        type="text"
+        [(ngModel)]="searchTerm"
+        (input)="filterProducts()"
+        placeholder="🛒 Browse, 💳 Buy & 🎁 Enjoy!"
+        class="w-full max-w-xl p-4 rounded-xl shadow-md bg-white/80 text-gray-800 placeholder-gray-400 focus:ring-2 focus:ring-teal-300 focus:outline-none transition-all"
+      />
+    </div>
+
+    
+    <div
+      class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10"
+    >
+      <div
+        *ngFor="let product of filteredProducts"
+        class="bg-white/60 backdrop-blur-xl border border-gray-200 rounded-3xl p-5 shadow-xl hover:shadow-teal-300 hover:rotate-1 hover:scale-105 transform transition-all duration-300 ease-in-out"
+      >
+        <img
+          [src]="product.image"
+          alt="{{ product.title }}"
+          class="w-full h-48 object-contain mb-4 rounded-xl transition-transform duration-500 hover:scale-110"
+        />
+        <h2
+          class="font-semibold text-lg text-gray-800 mb-2 line-clamp-2 tracking-wide"
+        >
+          {{ product.title }}
+        </h2>
+        <p class="text-gray-600 text-sm mb-3 line-clamp-3 italic">
+          {{ product.description | slice: 0:100 }}...
+        </p>
+        <p class="font-bold text-teal-600 text-lg">$ {{ product.price }}</p>
+      </div>
+    </div>
+  </div>
+</div>
