@@ -1,4 +1,4 @@
-Here's a complete and professional `README.md` file for your **Angular 15 Product Showcase App** — suitable for pushing to GitHub:
+
 <img width="1815" height="872" alt="image" src="https://github.com/user-attachments/assets/e5e7e614-c7f6-410c-95d0-60251f1aadb3" />
 
 
