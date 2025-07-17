@@ -16,7 +16,8 @@ This is a simple **Angular 15** application that:
 
 ## 📸 Preview
 
-![screenshot](screenshot.png) <!-- Add your actual screenshot here -->
+![WhatsApp Image 2025-07-17 at 19 39 23_c3daf364](https://github.com/user-attachments/assets/d4404d3b-afa9-4f89-9e83-ef7c873a5546)
+
 
 ---
 
