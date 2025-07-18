@@ -1,11 +1,10 @@
-
+🛒 Angular 15 Product Showcase App
 <img width="1815" height="872" alt="image" src="https://github.com/user-attachments/assets/e5e7e614-c7f6-410c-95d0-60251f1aadb3" />
 
 
 ---
 
-````markdown
-# 🛒 Angular 15 Product Showcase App
+
 
 This is a simple **Angular 15** application that:
 
