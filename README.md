@@ -35,7 +35,7 @@ This is a simple **Angular 15** application that:
 
 ```bash
 git clone https://github.com/urjamodi24/Perisync_interview_task.git
-cd product-app
+
 ````
 
 ### 2. Install Dependencies
