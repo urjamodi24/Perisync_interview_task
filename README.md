@@ -34,7 +34,7 @@ This is a simple **Angular 15** application that:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/product-app.git
+git clone https://github.com/urjamodi24/Perisync_interview_task.git
 cd product-app
 ````
 
